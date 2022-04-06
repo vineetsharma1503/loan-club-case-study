@@ -14,7 +14,7 @@
 - Conclusion 2 - The riskiest of loan purpose is <b>small_business</b> followed by <b>debt_consolidation and credit_card</b>
 - Conclusion 3 - Grading system used by Loan Club is working almost accurately in real world.
 - Conclusion 4 - lesser the loan tenure the better are chances of no default.
-- Conclusion 4 - DTI seems to have almost no effect on the loan paying capacity
+- Conclusion 5 - DTI seems to have almost no effect on the loan paying capacity
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
